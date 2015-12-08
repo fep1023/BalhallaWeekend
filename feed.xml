@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Balhalla Weekend 2016</title>
+    <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>http://localhost:8080</link>
+    <description>Save the date: September 30 - October 2, 2016</description>
+    <pubDate>Wed, 02 Dec 2015 01:45:00 -0800</pubDate>
+    <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
+    <language>en</language>
+    <item>
+      <title>Classes</title>
+      <link>http://localhost:8080/articles/Classes/</link>
+      <pubDate>Wed, 02 Dec 2015 01:45:00 -0800</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/Classes/</guid>
+      <author></author>
+      <description>&lt;p&gt;We will feature three different track levels: beginner, intermediate, and advanced. &lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Teachers</title>
+      <link>http://localhost:8080/articles/Teachers/</link>
+      <pubDate>Wed, 02 Dec 2015 01:43:00 -0800</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/Teachers/</guid>
+      <author></author>
+      <description>&lt;p&gt;We’re very excited to be bringing in some of the best balboa dancers in the US! The full teacher roster will be announced once it is finalized.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Venues</title>
+      <link>http://localhost:8080/articles/Venues/</link>
+      <pubDate>Wed, 02 Dec 2015 01:40:00 -0800</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/Venues/</guid>
+      <author></author>
+      <description>&lt;p&gt;The weekend will have three evening social dances at some of Seattle’s finest venues, as well as late night dances for those that just can’t get enough balboa. &lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Bands</title>
+      <link>http://localhost:8080/articles/Bands/</link>
+      <pubDate>Wed, 02 Dec 2015 01:35:00 -0800</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/Bands/</guid>
+      <author></author>
+      <description>&lt;p&gt;Balhalla Weekend will feature some of Seattle’s finest swing jazz bands! &lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Competitions</title>
+      <link>http://localhost:8080/articles/Competitions/</link>
+      <pubDate>Wed, 02 Dec 2015 01:30:00 -0800</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/Competitions/</guid>
+      <author></author>
+      <description>&lt;p&gt;Feel like showing off? Balhalla Weekend will have FOUR competitions. Shuffle in style in Jack and Jill, Strictly, Fast Feet, and Pure Bal competitions. &lt;/p&gt;
+</description>
+    </item>
+  </channel>
+</rss>
